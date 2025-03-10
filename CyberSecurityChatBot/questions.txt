@@ -1,0 +1,33 @@
+general.how_are_you → How are you?
+general.purpose → What’s your purpose?
+general.what_can_i_ask → What can I ask you about?
+password.strength → What makes a strong password?
+password.change_frequency → How often should I change my password?
+password.reuse_safety → Is it safe to reuse passwords?
+password.manager → What’s a password manager, and should I use one?
+password.easy_but_strong → How can I create a password that’s easy to remember but hard to guess?
+password.length → Are longer passwords always better?
+password.2fa → Should I use two-factor authentication (2FA)?
+password.passkeys → What are passkeys, and how do they work?
+password.write_down → Is it safe to write down my passwords?
+password.hacking_methods → How do hackers crack passwords?
+phishing.definition → What is phishing?
+phishing.recognition → How can I recognise a phishing email?
+phishing.clicked_link → What should I do if I click on a phishing link?
+phishing.scammer_tactics → How do scammers trick people into giving away personal information?
+phishing.types → What’s the difference between phishing, smishing, and vishing?
+phishing.social_media → Can phishing attacks happen on social media?
+phishing.suspicious_email → What should I do if I receive a suspicious email or message?
+phishing.obvious_attacks → Are phishing attacks always obvious?
+phishing.protection → How can I protect myself from phishing scams?
+phishing.real_examples → What are some real-life examples of phishing scams?
+browsing.website_safety → How can I tell if a website is safe?
+browsing.https → What is HTTPS, and why does it matter?
+browsing.browser_extensions → What are browser extensions, and can they be dangerous?
+browsing.download_safety → How do I know if a download is safe?
+browsing.vpn → What is a VPN, and do I need one?
+browsing.password_saving → Should I save my passwords in my web browser?
+browsing.tracking → What is tracking, and how can I reduce it?
+browsing.cookies → What are cookies, and should I block them?
+browsing.anonymity → How can I browse the web anonymously?
+browsing.malware → What is malware, and how can I avoid it?
