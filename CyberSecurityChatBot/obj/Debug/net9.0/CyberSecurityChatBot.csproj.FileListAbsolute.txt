@@ -1,0 +1,15 @@
+/Users/calebmorse/Documents/GitHub/PROG6221POE-ST10343104/CyberSecurityChatBot/bin/Debug/net9.0/CyberSecurityChatBot
+/Users/calebmorse/Documents/GitHub/PROG6221POE-ST10343104/CyberSecurityChatBot/bin/Debug/net9.0/CyberSecurityChatBot.deps.json
+/Users/calebmorse/Documents/GitHub/PROG6221POE-ST10343104/CyberSecurityChatBot/bin/Debug/net9.0/CyberSecurityChatBot.runtimeconfig.json
+/Users/calebmorse/Documents/GitHub/PROG6221POE-ST10343104/CyberSecurityChatBot/bin/Debug/net9.0/CyberSecurityChatBot.dll
+/Users/calebmorse/Documents/GitHub/PROG6221POE-ST10343104/CyberSecurityChatBot/bin/Debug/net9.0/CyberSecurityChatBot.pdb
+/Users/calebmorse/Documents/GitHub/PROG6221POE-ST10343104/CyberSecurityChatBot/obj/Debug/net9.0/CyberSecurityChatBot.GeneratedMSBuildEditorConfig.editorconfig
+/Users/calebmorse/Documents/GitHub/PROG6221POE-ST10343104/CyberSecurityChatBot/obj/Debug/net9.0/CyberSecurityChatBot.AssemblyInfoInputs.cache
+/Users/calebmorse/Documents/GitHub/PROG6221POE-ST10343104/CyberSecurityChatBot/obj/Debug/net9.0/CyberSecurityChatBot.AssemblyInfo.cs
+/Users/calebmorse/Documents/GitHub/PROG6221POE-ST10343104/CyberSecurityChatBot/obj/Debug/net9.0/CyberSecurityChatBot.csproj.CoreCompileInputs.cache
+/Users/calebmorse/Documents/GitHub/PROG6221POE-ST10343104/CyberSecurityChatBot/obj/Debug/net9.0/CyberSecurityChatBot.sourcelink.json
+/Users/calebmorse/Documents/GitHub/PROG6221POE-ST10343104/CyberSecurityChatBot/obj/Debug/net9.0/CyberSecurityChatBot.dll
+/Users/calebmorse/Documents/GitHub/PROG6221POE-ST10343104/CyberSecurityChatBot/obj/Debug/net9.0/refint/CyberSecurityChatBot.dll
+/Users/calebmorse/Documents/GitHub/PROG6221POE-ST10343104/CyberSecurityChatBot/obj/Debug/net9.0/CyberSecurityChatBot.pdb
+/Users/calebmorse/Documents/GitHub/PROG6221POE-ST10343104/CyberSecurityChatBot/obj/Debug/net9.0/CyberSecurityChatBot.genruntimeconfig.cache
+/Users/calebmorse/Documents/GitHub/PROG6221POE-ST10343104/CyberSecurityChatBot/obj/Debug/net9.0/ref/CyberSecurityChatBot.dll

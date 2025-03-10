@@ -8,27 +8,24 @@
     "net9.0": []
   },
   "packageFolders": {
-    "C:\\Users\\caleb\\.nuget\\packages\\": {}
+    "/Users/calebmorse/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\caleb\\iCloudDrive\\Documents\\University\\VC\\1-Year2\\2-Sem3\\ProgSync\\POE\\PROG6221POE-ST10343104\\CyberSecurityChatBot\\CyberSecurityChatBot.csproj",
+      "projectUniqueName": "/Users/calebmorse/Documents/GitHub/PROG6221POE-ST10343104/CyberSecurityChatBot/CyberSecurityChatBot.csproj",
       "projectName": "CyberSecurityChatBot",
-      "projectPath": "C:\\Users\\caleb\\iCloudDrive\\Documents\\University\\VC\\1-Year2\\2-Sem3\\ProgSync\\POE\\PROG6221POE-ST10343104\\CyberSecurityChatBot\\CyberSecurityChatBot.csproj",
-      "packagesPath": "C:\\Users\\caleb\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\caleb\\iCloudDrive\\Documents\\University\\VC\\1-Year2\\2-Sem3\\ProgSync\\POE\\PROG6221POE-ST10343104\\CyberSecurityChatBot\\obj\\",
+      "projectPath": "/Users/calebmorse/Documents/GitHub/PROG6221POE-ST10343104/CyberSecurityChatBot/CyberSecurityChatBot.csproj",
+      "packagesPath": "/Users/calebmorse/.nuget/packages/",
+      "outputPath": "/Users/calebmorse/Documents/GitHub/PROG6221POE-ST10343104/CyberSecurityChatBot/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\caleb\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/Users/calebmorse/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net9.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -68,7 +65,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.200/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

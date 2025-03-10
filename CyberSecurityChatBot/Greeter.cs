@@ -32,7 +32,9 @@ internal class ImageDisplay
     //Using ASCII art to display an image
     public void DisplayImage()
     {
-        Console.WriteLine("Image displayed here");
+        //Read ascii art from logo.txt file
+        string asciiArt = System.IO.File.ReadAllText("logo.txt");
+        Console.WriteLine(asciiArt);
     }
 }
 
